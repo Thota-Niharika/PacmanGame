@@ -31,12 +31,6 @@ PacmanGame/
 
 ---
 
-##  Preview
-
-![Pacman Preview](./Screenshot.png)
-
----
-
 ## Built With
 
 - HTML5
