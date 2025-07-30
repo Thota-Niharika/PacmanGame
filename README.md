@@ -33,7 +33,7 @@ PacmanGame/
 
 ##  Preview
 
-![Pacman Preview](./screenshot.png)
+![Pacman Preview](./Screenshot.png)
 
 ---
 
